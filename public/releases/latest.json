@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.3",
-    "sha256":  "44c409a13eb7b1bb08fddd58c9334d0f6c7cc885408a5c544b73adefa5f6dcba",
+    "version":  "2.1.4",
+    "sha256":  "7e9e7d8da715d04ce834ba108edc93c24f37bf3b61838df9f10dcb677e0f66c0",
     "size":  2332672,
-    "notes_en":  "Automatic updates and stability improvements.",
-    "notes_ru":  "Добавлена система автоматического обновления и улучшена стабильность."
+    "notes_en":  "Bug fixes and performance improvements.",
+    "notes_ru":  "Исправления ошибок и улучшения производительности."
 }
