@@ -1,7 +1,8 @@
 {
-    "version":  "2.1.4",
-    "sha256":  "7e9e7d8da715d04ce834ba108edc93c24f37bf3b61838df9f10dcb677e0f66c0",
-    "size":  2332672,
-    "notes_en":  "Bug fixes and performance improvements.",
-    "notes_ru":  "Исправления ошибок и улучшения производительности."
+    "version":  "2.1.5",
+    "sha256":  "84238b068fe5ec752b31d4efc8b168555608a7594f4c50c884972e476a55b5ea",
+    "size":  2338304,
+    "signature":  "b850e4a52dff8060aa4aa7bcffc1cbfa55f63e14b808d11f8a9267e914f3d951dec89c9bd459a5deb8f434a5baeaddf78c9121592070cdbe1d448d4ce8b5d64e",
+    "notes_en":  "DNS test fixes and minor edits.",
+    "notes_ru":  "Исправления DNS-теста и мелкие правки."
 }
