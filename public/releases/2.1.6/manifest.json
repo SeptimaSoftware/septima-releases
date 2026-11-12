@@ -1,0 +1,8 @@
+{
+    "version":  "2.1.6",
+    "sha256":  "696d9307cf2f41beeb35cbca743fe8adb9eeaea4c9331c0899df5527c40ad4b8",
+    "size":  2356224,
+    "signature":  "e8165f3fdc59a6e934301594c2e513baab5aad107c411e8938412b2aab5616ef6c079c0c2eb8a5cbd93671bf627c64eaf7960fda6c3c759b56600ceed625e423",
+    "notes_en":  "Adding auto‑updates, modifying DNS tests, changing the app’s closing window, and making minor edits..",
+    "notes_ru":  "Добавление автообновлений, изменение DNS-тестов, изменение окна закрытия приложения и мелкие правки."
+}

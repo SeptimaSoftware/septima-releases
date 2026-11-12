@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.5",
-    "sha256":  "24c325141b5555ef94978bbd6f53e34f470f612efce68543461c86180daae3fe",
+    "version":  "2.1.6",
+    "sha256":  "696d9307cf2f41beeb35cbca743fe8adb9eeaea4c9331c0899df5527c40ad4b8",
     "size":  2356224,
-    "signature":  "f37a87165c51a5b32ccf7dc0e011a1369db93b19008fde7d761e447b77eddce7783e852b856049995f2df890c2efdc8e2e11c0ee961420d8513395a4b7b65519",
+    "signature":  "e8165f3fdc59a6e934301594c2e513baab5aad107c411e8938412b2aab5616ef6c079c0c2eb8a5cbd93671bf627c64eaf7960fda6c3c759b56600ceed625e423",
     "notes_en":  "Adding auto‑updates, modifying DNS tests, changing the app’s closing window, and making minor edits..",
     "notes_ru":  "Добавление автообновлений, изменение DNS-тестов, изменение окна закрытия приложения и мелкие правки."
 }
