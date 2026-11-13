@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.4",
-    "sha256":  "03717d57040d8f96521a106bc67d19eaaa3822f5e3a8b24b0f176c500c2ccf5c",
+    "version":  "2.1.5",
+    "sha256":  "18cded3e84ef15f7666e3680cab4abc9181545ca0f5861d95f80fcb1ab3c0f05",
     "size":  2382336,
-    "signature":  "321693012a98984f0c833b9708961a5c6777df5df009740bb91a8e93d5273217985d97953e9271feda97dfb1bb6cd05050eec9171996415bb87ed518d72586e3",
+    "signature":  "3ab847938573c304c93780992d1a4ebdb13957bfe6ca3f14d2cb3ea1f540f330550f5f75f5ea5ccb7338c1dc393c806a40de00c566c230fa5fdc51fe5326c285",
     "notes_en":  "Minor edits.",
     "notes_ru":  "Мелкие правки."
 }
