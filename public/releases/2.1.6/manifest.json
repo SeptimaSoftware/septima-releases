@@ -1,0 +1,8 @@
+{
+    "version":  "2.1.6",
+    "sha256":  "fd0f9385f901ce1aac2e185561cefd3b69ce3109fb03c7ed79920d8f2a7311d7",
+    "size":  2384896,
+    "signature":  "de44c5904ed1ef0769ff35e78b6b29521e6318af89baea1e6e750240c9a9730d579ce1553ddf3d27641139b274a437d8bd3cfd43bdfe9040dfe2de139f83c5fe",
+    "notes_en":  "QUIC has been removed from UDP; WebRTC does not block, but adapts to the proxy.",
+    "notes_ru":  "QUIC убран из UDP, WebRTC не блокирует, а подгоняется под прокси."
+}
