@@ -1,8 +1,8 @@
 {
     "version":  "2.1.6",
-    "sha256":  "7e9c36b43807396dd490a4035d47c82ccda0f0ce09eb4bfe338aa8dee129196a",
-    "size":  2397696,
-    "signature":  "e2d8f8c6d0bc75e39a0acb2d3fb5a594010f14c23b779f20256ca21f653ecb29e49c567384f059af1cdb43389a38f18c2a69a594ea8506b01655225269808d67",
+    "sha256":  "018dd59e77e9ab68e8a5fbf2bb76deb54b3f35c1d38376baa1d1b245e8bfccd7",
+    "size":  2400256,
+    "signature":  "e62d9941a0743ad392dea00eeef83d68951ae117905fba1131b111393b15018c0a72af7c3b09ad31c19909f934b6522dbbb32b9938fce85a0ca77b0284f9b070",
     "notes_en":  "Fixed shortcut tooltip, profile list scroll, dashboard cards.",
     "notes_ru":  "Исправлены ярлык, скролл профилей, карточки главной."
 }
